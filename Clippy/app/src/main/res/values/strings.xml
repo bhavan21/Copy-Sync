@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Clippy</string>
+    <string name="action_settings">Laptop details</string>
+    <string name="description">How it works:\n\nWhen the text is cut/copied in this device, it will also be copied to the corresponding laptop. IP address and port number of connection to the laptop are to be entered in the options menu of the app. A background file (server.py) is also to be run on laptop for working of this. \n\nIf the copying doesn\'t work properly try the following:\n1) Check server.py is running on laptop or not \n2) IP address and port number of connection to laptop are entered correctly in app \n3) Open and close the app once.</string>
+</resources>
